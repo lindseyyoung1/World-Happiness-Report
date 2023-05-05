@@ -20,4 +20,5 @@ Importing of libraries, data wrangling, consistency checks, visualizations, line
 #### 04 Analysis
 Visualizations of data
 #### 05 Send to Client
-Final Project Report of data through Tableau Public link.
+Final Project Report of data through Tableau Public link below.
+https://public.tableau.com/shared/ST2WXMYMF?:display_count=n&:origin=viz_share_link
